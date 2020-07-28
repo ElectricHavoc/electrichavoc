@@ -1,6 +1,12 @@
-### Hi there 👋
+![Brand Logo](https://raw.githubusercontent.com/ElectricHavoc/electrichavoc/master/TopPanel.png)
+
+## Innovator / Leader / Mentor / Remote Worker
+
+Changing the world, one developer at a time.
 
 <!--
+### Hi there 👋
+
 **ElectricHavoc/electrichavoc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
