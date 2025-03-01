@@ -1,6 +1,6 @@
 ![Brand Logo](https://raw.githubusercontent.com/ElectricHavoc/electrichavoc/master/TopPanel.png)
 
-## Innovator / Leader / Mentor / ~~Remote Worker~~ / Builder of Spaceships
+## Builder of Spaceships
 
 Changing the world, one developer at a time.
 
